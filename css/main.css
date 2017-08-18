@@ -1,6 +1,7 @@
 a{
   text-decoration: none;
 }
+
 #wrapper{
   max-width: 940px;
   margin: 0 auto;
@@ -16,8 +17,15 @@ a{
   color: #2d7e4b;
 }
 
-header{
+nav a.selected, a:hover{
+  color: red;
+}
+
+h1{
   border-color: black;
+  font-family: 'Days One', sans-serif;
+  margin: 15px 0;
+  font-size: 1.75em;
 }
 
 h1,h2{
