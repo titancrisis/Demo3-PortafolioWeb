@@ -2,8 +2,32 @@ a{
   text-decoration: none;
 }
 #wrapper{
-  background: orange;
   max-width: 940px;
   margin: 0 auto;
   padding: 0 5%;
+}
+
+#logo{
+  text-align: center;
+  margin: 0;
+}
+
+a{
+  color: #2d7e4b;
+}
+
+header{
+  border-color: black;
+}
+
+h1,h2{
+  color: #346a8c;
+}
+
+nav{
+  background: #599a68;
+}
+
+nav a, nav a:visited{
+  color: #b3b3b3;
 }
