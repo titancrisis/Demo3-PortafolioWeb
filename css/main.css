@@ -32,8 +32,8 @@ a{
   color: #2d7e4b;
 }
 
-nav a.selected, a:hover{
-  color: red;
+nav ul li a.selected, a:hover{
+  color: #143162;
 }
 
 h1{
