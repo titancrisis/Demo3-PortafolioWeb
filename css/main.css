@@ -50,6 +50,10 @@ h2{
   font-weight: lighter;
 }
 
+h3{
+  margin: 0 0 1em 0;
+}
+
 #gallery{
   margin: 0;
   padding: 0;
@@ -116,4 +120,14 @@ footer{
   width: 20px;
   height: 20px;
   margin: 0 5px;
+}
+
+/**********************************
+PÁGINA: ACERCA DE
+**********************************/
+.profile-photo{
+  display: block;
+  margin: auto;
+  max-width: 150px;
+  border-radius: 50%;
 }
